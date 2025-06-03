@@ -5,3 +5,5 @@ Image made by simulating Schrodinger Equation on a double-slit experiment setup.
 
 ![IMG_1289 2](https://github.com/user-attachments/assets/071779dc-baee-4f27-a776-baf7819c5c22)
 Drawing made using GridCalc, a program I wrote to map points on a refrence image to an arbitrarily sized canvas. Represents mathematically perfect proportions carried out using physically imperfect hands.
+
+More to come :)
